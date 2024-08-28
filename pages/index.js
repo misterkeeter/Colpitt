@@ -11,11 +11,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Header title="Fran Colpitt Audio Archive - Do You Really Believe That" />
+      <Header title="Do You Really Believe That?" />
       
       <main>
         <div className="hero">
-          <img src="https://via.assets.so/img.jpg?w=600&h=800&tc=black&bg=#cecece&t=Placeholder" alt="Fran Colpitt" />
+          <img src="fran.jpg" alt="Fran Colpitt" />
           <div className="links">
 
             <p className="description">
