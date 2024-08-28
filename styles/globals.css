@@ -12,12 +12,48 @@ body {
 }
 
 main {
-  padding: 5rem 0;
+  /* padding: 5rem 0; */
   flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: left;
+  width: 100%;
+  /* text-align: left; */
+}
+
+.hero{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  /* align-items: center; */
+  text-align: center;
+}
+
+.links {
+  color: #0070f3;
+  text-decoration: none;
+  font-weight: bold;
+  display: flex;
+  justify-content: flex-start;
+  align-items: end;
+  /* margin-top: 1rem; */
+  flex-direction: column;
+}
+
+.description {
+  color: #333;
+  font-size: 2rem;
+  line-height: 1;
+  /* margin-top: 1rem; */
+}
+
+.links a{
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+  font-weight: normal;
+  /* align-items: right; */
+  
 }
 
 code {

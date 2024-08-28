@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <p>This is here</p>
+        <p>The Art Galleris at TCU</p>
       </footer>
     </>
   )
