@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Header title="Fran Colpitt Archive - Do You Really Believe That" />
+      <Header title="Fran Colpitt Audio Archive - Do You Really Believe That" />
       
       <main>
         <div className="hero">
@@ -19,7 +19,7 @@ export default function Home() {
           <div className="links">
 
             <p className="description">
-              An Online Archive of the work of Fran Colpitt.
+              An Online Audio Archive <br></br> of Fran Colpitt:
             </p>
             <Link  href='/lajolla-audio'>La Jolla 1983</Link>
 
