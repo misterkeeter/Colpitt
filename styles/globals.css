@@ -18,7 +18,7 @@ main {
   flex-direction: column;
   /* justify-content: center; */
   align-items: left;
-  width: 90%;
+  width: 95%;
   /* text-align: left; */
 }
 
@@ -67,31 +67,44 @@ mainaudio {
   text-decoration: none;
   font-weight: bold;
   display: flex;
-  justify-content: flex-start;
-  align-items: end;
-  /* margin-top: 1rem; */
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 1.5rem;
+  margin-top: 0;
   flex-direction: column;
 }
 
 .description {
   color: #333;
   font-size: 1rem;
-  line-height: 1;
-  text-align: right;
-  /* margin-top: 1rem; */
+  line-height: 1.5;
+  font-weight: normal;
+  text-align: left;
+  margin-block: 0;
+}
+
+.toAudio{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5rem;
+  margin-top: 0;
+  flex-direction: column;
+  width: 100%;
 }
 
 .links a{
-  font-size: 1rem;
+  font-size: 1.5rem;
   /* line-height: 2.5rem; */
   font-weight: normal;
   background-color: grey;
   padding: 0.5rem;
   border-radius: 5px;
-  margin-top: 0.5rem;
+  margin-top: 1rem;
   /* align-items: right; */
   font-style: unset;
   text-decoration: none;
+  width: 90%;
 }
 
 .links a:hover{
@@ -104,6 +117,26 @@ mainaudio {
   color: #ffffff;
   text-decoration: none;
 }
+
+.info{
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  align-items: right;
+  padding: 1rem;
+  width: 50%;
+  text-align: left;
+  align-self: end;
+}
+
+.info h5, .info h3{ 
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  display: inline;
+  width: 100%;
+}
+
 code {
   background: #e2e8f0;
   border-radius: 5px;
@@ -112,7 +145,7 @@ code {
 }
 
 .container {
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   flex-direction: column;
   justify-content: center;

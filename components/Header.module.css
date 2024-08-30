@@ -10,6 +10,23 @@
   /* background-color: rgb(223, 223, 223); */
 }
 
+.homeLink , .homeLink:hover, .homeLink:visited, .homeLink:active {
+  display: flex;
+  justify-content: flex-start;
+  align-items: space-between;
+  text-align: left;
+  margin: 0;
+  padding: 1rem;
+  padding-left: 0;
+  /* width: 90%; */
+  width: 100%;
+
+  color: black;
+  text-decoration: none;
+}
+
+
+
 .headline{
   margin: 0;
   padding: 1rem;
