@@ -45,13 +45,16 @@ mainaudio {
   justify-content: space-between;
   /* align-items: center; */
   text-align: center;
-  margin-top: 1rem;
+  /* margin-top: 1rem; */
 }
 .hero img {
-  width: 50%;
+  width: 60%;
+  max-height: 50vw;
   /* height: 50%; */
-  object-fit: scale-down;
-  align-self: flex-start;
+  object-fit: cover;
+  justify-self: center;
+  align-self: start;
+  /* align-self: flex-start; */
   /* object-fit: cover; */
 }
 
@@ -66,7 +69,7 @@ mainaudio {
 
 .tube iframe {
     border: none;
-    object-fit: cover;
+    object-fit: contain;
     width: 100vw;
     height: auto;
     aspect-ratio: 16 / 9;
@@ -86,11 +89,14 @@ mainaudio {
 
 .description {
   color: #f0e2e3;
-  font-size: 1rem;
-  line-height: 1.5;
+  font-size: clamp(0.5rem, 2.5vw, 1.5rem);
+  line-height: 1.25;
   font-weight: normal;
   text-align: left;
-  margin-block: 0;
+  /* margin-block: 0; */
+  width: 90%;
+  align-self: center;
+  justify-self: center;
 }
 
 .toAudio{
@@ -112,7 +118,7 @@ mainaudio {
   background-color: #67858a;
   padding: 0.5rem;
   border-radius: 5px;
-  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
   /* align-items: right; */
   font-style: unset;
   text-decoration: none;
@@ -143,14 +149,19 @@ mainaudio {
 }
 
 .info h5, .info h3{ 
-  font-size: clamp(0.5rem, 3em, 1.5rem);
+  font-size: clamp(0.5rem, 2.5vw, 1.5rem);
   font-family: "Bebas Neue", sans-serif;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   margin: 0;
   padding: 0;
   text-align: left;
   display: inline;
   width: 100%;
+}
+
+.info p{
+  font-size: clamp(0.5rem, 2vw, 1.5rem);
+  line-height: 1.25;
 }
 
 code {
@@ -161,9 +172,44 @@ code {
 }
 
 .container {
-  /* height: 100vh; */
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
+
+
+
+
+@media only screen and (max-width: 600px) and (-webkit-min-device-pixel-ratio: 2), 
+only screen and (max-width: 600px) and (min-resolution: 192dpi) {
+  /* Styles for high-density displays */
+  body {
+    font-size: 16px;
+  }
+  .description {
+    font-size: 0.75rem;
+  }
+
+  .info{
+    width: 100%;
+  }
+
+}
+
+@media only screen and (max-width: 600px) {
+  /* Styles for phones */
+  body {
+    font-size: 16px; /* Adjust font size */
+  }
+
+  .description {
+    font-size: 0.75rem;
+  }
+
+  .info{
+    width: 100%;
+  }
+}
+
