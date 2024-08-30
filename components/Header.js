@@ -5,7 +5,7 @@ export default function Header({ title, desc }) {
   <>
     <header className={styles.header}>
       <h1 className={styles.headline}>{title}</h1>
-      <p className={styles.subhead}>{desc}</p>
+      <p className={styles.subheadline}>{desc}</p>
     </header>
   </>
   )
