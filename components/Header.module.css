@@ -19,6 +19,16 @@
   width: 90%;
 }
 
+.subheadline{
+  margin: 0;
+  padding: 1rem;
+  padding-left: 0;
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: lighter;
+  width: 90%;
+}
+
 .logo {
   height: 3em;
   margin: 5px;

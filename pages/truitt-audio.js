@@ -14,7 +14,7 @@ export default function Home() {
       
       <mainaudio>
         <div className="tube">
-                <iframe src="https://www.youtube.com/embed/70WZjqO8aLE?si=PfeN9HX9AbORUpDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mpP9daUwkFc?si=-t1s4dp5FoIRGHaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
             <div className="links">
