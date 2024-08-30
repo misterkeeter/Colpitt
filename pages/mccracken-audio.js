@@ -22,14 +22,14 @@ export default function Home() {
 
               <h3>John McCracken  #6969  5.28.80</h3>
               <h5>Side 1: 33:33</h5>
-              <p>FC working thru ideas, crisis of criticism minimalism/conceptual, 
+              <p>Colpitt working thru ideas, crisis of criticism minimalism/conceptual, 
               dialogue thru: Pollock, Newman, Rothko, and minimalism, Primary Structures Show </p>
               
-              <h5>Side 2: 22:43 – 34:00 (will have to fade out)</h5>
-              <p>McC psychically grounded (Egyptian pyramid example with a soft FC "you don’t really think that")
-              nice discussion of McC process: psychic, visualises sculptures before, into process of planks
+              <h5>Side 2: 22:43 – 34:00 </h5>
+              <p>McCracken psychically grounded (Egyptian pyramid example with a soft Colpitt "you don’t really think that")
+              nice discussion of McC process: psychic, visualizes sculptures before, into process of planks
               other works: crystal like pieces and paintings/process
-              [from gets sound quality 31:30 – 31:44 walking; 33:00–34:00 gets too distant, distorted]</p>
+              </p>
  
             </div>
         </div>
