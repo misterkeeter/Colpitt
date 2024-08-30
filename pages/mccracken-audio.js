@@ -8,6 +8,9 @@ export default function Home() {
       <Head>
         <title>Fran Colpitt - Do You Really Believe That - Archive</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="preconnect" href="https://fonts.googleapis.com"/>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet" />
       </Head>
 
       <Header title="Do you Really Believe That?" desc="Dr. Frances Colpitt Audio Archive" />
