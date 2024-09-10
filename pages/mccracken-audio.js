@@ -17,7 +17,7 @@ export default function Home() {
       
       <mainaudio>
         <div className="tube">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/TFcoAsqbPD0?si=i1ng4S_0NJa_z4GR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Pzy07jzjlQc?si=xihzfWXrfockKndW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <div className="info">
 
               <h3>John McCracken  #6969  5.28.80</h3>
@@ -27,7 +27,7 @@ export default function Home() {
               
               <h5>Side 2: 22:43 – 34:00 </h5>
               <p>McCracken psychically grounded (Egyptian pyramid example with a soft Colpitt "you don’t really think that")
-              nice discussion of McC process: psychic, visualizes sculptures before, into process of planks
+              nice discussion of McCracken process: psychic, visualizes sculptures before, into process of planks
               other works: crystal like pieces and paintings/process
               </p>
  
