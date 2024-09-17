@@ -21,20 +21,30 @@ export default function Home() {
 
           <div className="info">
             <h3>Anne Truitt  #6975  11.21.81</h3>
+            <p>Interview with the artist Anne Truitt for her dissertation Critical Issues of Minimal Art (University of Southern California, 1982), which later became the seminal publication: Minimal Art: The Critical Perspective (UMI Research Press, 1990). Courtesy Frances Colpitt papers, 1932-2022, Archives of American Art, Smithsonian Institution and Mary Colpitt, Executor Frances Jean Colpitt Estate.</p>
             <h5>Tape 1, Side 1: 5:30 – 30:26</h5>
-            <p>Catalysts, wooden constructions, Rheinhart, and Newman, that pivoted her work. Discusses how she developed process from handmade to fabrication. Evolved into counterpointing color and form. Discussions of other artists yet her independent way of life and work into role of the artist and formalist perspectives and relevancy.
-            Minimalist characteristics and theory; referential and non-referential and perspectives; Truitt’s disassociation yet Luminists; more intuitive and personal into theory of many minimalists and FC’s argument.</p>
+            <p>On catalysts, influences (Ad Rheinhart and Barnett Newman), the development of her process from handmade to fabrication, and the evolution of her work in color and form.
+            <br></br>
+            On her independent nature and her association and disassociation with Minimalism.
+            <br></br>
+            On Minimalist characteristics, theory and Colpitt’s thesis.</p>
 
             <h5>Tape 1, Side 1: 35:14 – 36:14</h5>
-            <p>FC talks about starting off as a painter and wanting to make perfect painting Truitt on distillation process and importance of what artist does</p>
+            <p>From Colpitt sharing her start as a painter wanting to make a perfect painting to Truitt discussing her distillation process and the importance of what an artist does.</p>
             <h5>Tape 1, Side 1: 42:48 – 45:43</h5>
-            <p>John McCracken vs. Truitt, Truitt on color (turns out similar to McCracken in terms of ‘pure color’ as well as visualising;)</p>
+            <p>On color (with reference to John McCracken)</p>
             
             <h5>Tape 1, Side 2: 14:00 – 45:00</h5>
-            <p>On color, absorption, setting free the work & color, in relation to other minimalist’s use of color, further into aspects of gravity, her latest show and use of color, onto art world and art stars, quality and value, onto formalist criticism into whether intention comes through and mysterious nature of it … goes on and think worth letting run bc fun ancedotal bits mentioning AbEx Bolatofsky, seeing one at LaJolla, Fran's mentor Susan Larson, Black Mountain, and a story about almost being eaten by wild pigs.</p>
+            <p>Further discussion on color, absorption, and setting free the work and the color, and in relation to other minimalist’s use of color and aspects of gravity. 
+            <br></br>
+            On floating sculptures and gravity in her show at the André Emmerich Gallery (1980), with references to her landmark 1963 gallery show.
+            <br></br>
+            Comments on the art world and art stars, quality and value, and formalist criticism, moving into intention and the mysterious nature of it.
+            <br></br>
+            Bits on the abstract expressionist Ilya Bolatofsky including the amusing ancedotal story about the artist’s encounter with wild pigs!</p>
             
             <h5>Tape 2, Side 1: </h5>
-            <p>Begins with Clem and the bold gesture</p>
+            <p>On Clement Greenberg and the bold gesture.</p>
 
           </div>
         </div>

@@ -17,11 +17,12 @@ export default function Home() {
       
       <mainaudio>
         <div className="tube">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/K6RsE4ScPlM?si=GU-PrYQjl93IaVac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3woHZ-ZjYjA?si=Y9cIA4Zl0qdBGmkj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           <div className="info">  
-            <h3>Dr. Frances Colpitt  #6987 06.83</h3>
-            <h5>New Viewpoints Lecture atLa Jolla Museum, now Museum of Contemporary Art San Diego</h5>
-            <p>“Do You Really Believe That?” highlights the role of ephemera in understanding Dr. Frances Colpitt’s study of contemporary art. The inclusion of these archival materials provides context to her work, illustrating her interactions with the art community and her influence on emerging artists. The Art Galleries at TCU are thankful to partner with wonderful institutions like the Judd Foundation and the Archives of American Art at the Smithsonian Institution to bring glimpses of Dr. Colpitt’s history into conversation with the art of the show.</p>
+            <h3>Dr. Frances Colpitt  #6978 01.83</h3>
+            <br></br>
+            <h5>“An Outsider's Perspective on the Permanent Collection.” La Jolla Museum of Contemporary Art [now: MCASD], January 1983.</h5><p> Courtesy Frances Colpitt papers, 1932-2022, Archives of American Art, Smithsonian Institution and Mary Colpitt, Executor Frances Jean Colpitt Estate.</p>
+            <p>Frances Colpitt delivered two lectures at the La Jolla Museum of Contemporary Art, now the Museum of Contemporary Art San Diego. Delivered six months apart, Colpitt responds to the museum’s esteemed collection of art from 1950 beginning with a modernist historical overview situating the collection in her introductory lecture “An Outsider's Perspective on the Permanent Collection,” (January 1983), commencing with a more nuanced critical reflection six months later in “Toward an Understanding of Issues in 20th Century Art: A New Viewpoint on the Permanent Collection,” (June 1983). Both lectures are now archived at the Archives of American Art, Smithsonian Institution, Washington D.C.</p>
           </div>
         </div>
       </mainaudio>

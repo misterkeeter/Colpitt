@@ -16,10 +16,10 @@ export default function Home() {
       <Header title="Do you Really Believe That?" desc="Dr. Frances Colpitt Audio Archive" />
       <mainaudio>
         <div className="tube">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/3woHZ-ZjYjA?si=Y9cIA4Zl0qdBGmkj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/K6RsE4ScPlM?si=GU-PrYQjl93IaVac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <div className="info">
-            <h3>Dr. Frances Colpitt #6978 1.13.83</h3>
-            <h5>Outsider View Lecture at La Jolla Museum, now Museum of Contemporary Art San Diego</h5>
+            <h3>Dr. Frances Colpitt #6987 6.83</h3>
+            <h5>“Toward an Understanding of Issues in 20th Century Art: A New Viewpoint on the Permanent Collection.” La Jolla Museum of Contemporary Art [now: MCASD], June 1983.</h5> <p>Courtesy Frances Colpitt papers, 1932-2022, Archives of American Art, Smithsonian Institution and Mary Colpitt, Executor Frances Jean Colpitt Estate.</p>
             <p>“Do You Really Believe That?” highlights the role of ephemera in understanding Dr. Frances Colpitt’s study of contemporary art. The inclusion of these archival materials provides context to her work, illustrating her interactions with the art community and her influence on emerging artists. The Art Galleries at TCU are thankful to partner with wonderful institutions like the Judd Foundation and the Archives of American Art at the Smithsonian Institution to bring glimpses of Dr. Colpitt’s history into conversation with the art of the show.</p>
 
           </div>

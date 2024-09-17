@@ -25,14 +25,16 @@ export default function Home() {
               <Link href="/mccracken-audio">McCracken Interview 1980</Link>
               <Link  href='/novros-audio'>Novros Interview 1981</Link>
               <Link href='/truitt-audio'>Truitt Interview 1981</Link>
-              <Link  href='/lajolla-audio'>New Viewpoints @ La Jolla 1983</Link>
-              <Link  href='/lajolla-outside-audio'>Outside Views @ La Jolla 1983</Link>
+              <Link  href='/lajolla-outside-audio'>Outside Views @ La Jolla</Link>
+              <Link  href='/lajolla-audio'>New Viewpoints @ La Jolla</Link>
             </div>
           
           </div>
         </div>
         <p className="description">
-            Do you really believe that? is conceived in honor and celebration of Dr. Frances Colpitt, her renowned scholarship, critical pedagogy and unyielding commitment to teaching along with her profound respect for artists, their work, and critics alike. The exhibition is guided by themes coalesced from Colpitt’s work over the course of her career with a focus on abstraction, Minimalism and Conceptual art. They illuminate her scholarship and curatorial practice, and also emphasize the significant impact and enduring legacy of her mentorship of artists in Texas. 
+            <i>Do you really believe that?</i> is conceived in honor and celebration of Dr. Frances Colpitt, her renowned scholarship, critical pedagogy and unyielding commitment to teaching along with her profound respect for artists, their work, and critics alike. The exhibition is guided by themes coalesced from Colpitt’s work over the course of her career with a focus on abstraction, Minimalism and Conceptual art. They artworks and ephemera illuminate her scholarship and curatorial practice, and also emphasize the significant impact of her mentorship has had onf artists and the arts community in Texas.<br></br>
+            <br></br>
+            Highlighting the role of ephemera,  <i>Do you really believe that?</i> offers a composite understanding to Dr. Frances Colpitt’s study of contemporary art. The inclusion of these archival materials provides context to her work, illustrating her contributions and interactions within the art community, her influence on emerging artists, and her critical and nurturing support of artists over the course of their careers. The Art Galleries at TCU are thankful to partner with wonderful institutions like the Judd Foundation, Archives of American Art at the Smithsonian Institution, Artpace San Antonio, Los Angeles County Museum of Art, Art, Design & Architecture Museum at UCSB, and Mary Colpitt, Executor of the Frances Jean Colpitt Estate, to bring glimpses of Dr. Colpitt’s history into conversation with the artworks in show.
             </p>
       </main>
 

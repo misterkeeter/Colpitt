@@ -22,25 +22,25 @@ export default function Home() {
         <div className="info">
 
           <h3>David Novros  #6973 12.14.81</h3>
+          <p>Interviews with the artist David Novros for her dissertation Critical Issues of Minimal Art (University of Southern California, 1982), which later became the seminal publication: Minimal Art: The Critical Perspective (UMI Research Press, 1990). Courtesy Frances Colpitt papers, 1932-2022, Archives of American Art, Smithsonian Institution and Mary Colpitt, Executor Frances Jean Colpitt Estate.</p>
           <h5>Side 2: 3:19 – 8:21</h5>
-          <p>Pollock readings and influences on Minimalists, (bit on Greenberg); Judd, Stella, Newman, and notion of line, design, “false” into perception, line is not a line, but light, contrast, when does it become a plane? Pollock had it all...</p>
+          <p>On seeing and reading Jackson Pollock and influences on Minimalists discussing, in particular, Donald Judd, Frank Stella, and Barnett Newman.
+          <br></br>
+          On the notion of line, design, light, contrast, planes, and “false” perceptions.</p>
           <h5>11:54 – 14:08</h5>
-          <p>On Sheldon Noldelman and art writing, and on painting … "and there we are at formalism"</p>
+          <p>“And there we are at formalism”––on critics, art writing, and painting.</p>
 
 
           <h3>David Novros  #C6974  No Date</h3>
-          <h5>Side 1: 6:00 –  43:00 (very good for students)</h5>
-          <p>Architecture and Novros painting, Park Place shows, how to make wall painting without wall, right angles, and not only formal, metaphors & geometry, 
-          Right angle in relation to Donald Judd’s work
-          False issue to make issue between illusion and reality (mini trip through history/art history)
-          Mondrian to Judd, DN big misunderstanding on illusion and reality into terminology in painting and sculpture vs. nature and reality
-          Abstraction and Giotto everything is abstract, not a question of style but of perception
-          Into “isms” and art history and education, etc. </p>
+          <h5>Side 1: 6:00 –  43:00</h5>
+          <p>Architecture, wall painting without walls, and the importance of right angles.
+          <br></br>
+          “Not a question of style but of perception”––on illusion, reality, and abstraction.</p>
  
           <h5>Side 2: 00:00 – 05:57</h5>
-          <p>On post-modernism, DN thinks bs and the “isms” problematic </p>
+          <p>On post-modernism and the problem with “isms”  </p>
           <h5>10:10 – 14:24</h5>
-          <p>On Minimalism; the least literary became the most literary, theoretical writing that develops out of minimalism and conceptualism in the absence of formalist elements, Judd’s work became most literary––ironic––gave birth to conceptual work and writing, so little to talk about, internally/externally; Specific works in Texas, onto scale and painting, DN scale </p>
+          <p>On Minimalism being the least literary yet becoming the most literary giving birth to conceptual work and writing.</p>
 
         </div>
         </div>
