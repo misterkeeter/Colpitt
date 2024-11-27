@@ -21,7 +21,7 @@ export default function Home() {
             <div className="info">
 
               <h3>John McCracken  #6969  5.28.80</h3>
-              <p>Interview with the artist John McCracken for her dissertation Critical Issues of Minimal Art (University of Southern California, 1982), which later became the seminal publication: Minimal Art: The Critical Perspective (UMI Research Press, 1990). Courtesy Frances Colpitt papers, 1932-2022, Archives of American Art, Smithsonian Institution and Mary Colpitt, Executor Frances Jean Colpitt Estate.</p>
+              <p>Interview with the artist John McCracken for Colpitt's dissertation <i>Critical Issues of Minimal Art</i>(University of Southern California, 1982), which later became the seminal publication: <i>Minimal Art: The Critical Perspective</i> (UMI Research Press, 1990). Courtesy Frances Colpitt papers, 1932-2022, Archives of American Art, Smithsonian Institution and Mary Colpitt, Executor Frances Jean Colpitt Estate.</p>
               <h5>Side 1: 33:33</h5>
               <p>Colpitt presents her working ideas on the crisis of criticism evidenced in Minimalism and Conceptual art weaving a brief background trajectory through dialogues on artists such as Jackson Pollock, Barnett Newman, and Mark Rothko. <br></br>On the seminal Primary Structures show and Minimalism</p>
               

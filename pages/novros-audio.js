@@ -22,7 +22,7 @@ export default function Home() {
         <div className="info">
 
           <h3>David Novros  #6973 12.14.81</h3>
-          <p>Interviews with the artist David Novros for her dissertation Critical Issues of Minimal Art (University of Southern California, 1982), which later became the seminal publication: Minimal Art: The Critical Perspective (UMI Research Press, 1990). Courtesy Frances Colpitt papers, 1932-2022, Archives of American Art, Smithsonian Institution and Mary Colpitt, Executor Frances Jean Colpitt Estate.</p>
+          <p>Interviews with the artist David Novros for Colpitt's dissertation <i>Critical Issues of Minimal Art</i> (University of Southern California, 1982), which later became the seminal publication: <i>Minimal Art: The Critical Perspective</i> (UMI Research Press, 1990). Courtesy Frances Colpitt papers, 1932-2022, Archives of American Art, Smithsonian Institution and Mary Colpitt, Executor Frances Jean Colpitt Estate.</p>
           <h5>Side 2: 3:19 – 8:21</h5>
           <p>On seeing and reading Jackson Pollock and influences on Minimalists discussing, in particular, Donald Judd, Frank Stella, and Barnett Newman.
           <br></br>
